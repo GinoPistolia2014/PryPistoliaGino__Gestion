@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PryPistoliaGino__Gestion", "PryPistoliaGino__Gestion\PryPistoliaGino__Gestion.csproj", "{ED2E0DAA-96E6-4960-ACBF-CC518B4ABDEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED2E0DAA-96E6-4960-ACBF-CC518B4ABDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2E0DAA-96E6-4960-ACBF-CC518B4ABDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2E0DAA-96E6-4960-ACBF-CC518B4ABDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2E0DAA-96E6-4960-ACBF-CC518B4ABDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62C12E29-1A72-4CA8-BDD6-347E5322CD61}
+	EndGlobalSection
+EndGlobal
